@@ -196,6 +196,7 @@ body {
 }
 
 .about .row img {
+  padding: 8rem 7% 1.4rem;
   max-width: 50rem;
   height: auto;
 }
